@@ -1,5 +1,6 @@
-import com.google.common.collect.Lists;
+package otus;
 
+import com.google.common.collect.Lists;
 import java.util.List;
 
 public class HelloOtus {
