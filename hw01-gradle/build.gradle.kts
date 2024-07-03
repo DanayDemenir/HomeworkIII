@@ -15,7 +15,7 @@ tasks {
         archiveVersion.set("0.1")
         archiveClassifier.set("")
         manifest {
-            attributes(mapOf("Main-Class" to "HelloOtus"))
+            attributes(mapOf("Main-Class" to "otus.HelloOtus"))
         }
     }
 
